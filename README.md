@@ -3,7 +3,7 @@
 ## About
 Developing an Image Processing application to analyze and visualize the importance of phase and magnitude in signal processing.
 
-##Preview
+## Preview
 ![image](https://github.com/AhmedGehad1/FT-Magnitude-phase-Mixer/assets/125567504/a9d0921d-4a81-478c-bdf7-39dae80b2fea)
 
 ## How to use My application ?
